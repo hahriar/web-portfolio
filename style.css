@@ -1,5 +1,5 @@
 body {
-    font-family: 'Festive', cursive;
+    font-family: 'Ubuntu Mono', monospace;
     margin: 0;
 
 }
@@ -37,20 +37,19 @@ h2{
 
 }
 .top-banner{
-    background-image: url(/images/top-banner.png);
+    background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
     
 }
 .dream-big{
-    background-image: url(/images/dream-bg.png);
+    background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
     
     
 }
 .experience-area{
-    background-image: url(/images/exp-bg.png);
-    background-size: 5%;
+    background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
 }
